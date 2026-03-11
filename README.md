@@ -17,7 +17,7 @@ The project utilizes several datasets to build the predictive model:
 4. [cite_start]**Modeling**: A **Random Forest Classifier** was trained to capture the non-linear interactions between scheduling and weather conditions[cite: 3].
 
 ## Requirements
-To run this project, you need the following Python libraries:
+To run this project, we used the following Python libraries:
 * pandas
 * scikit-learn
 * imbalanced-learn
